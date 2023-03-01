@@ -1,4 +1,3 @@
 # ventanas-modales
 
-Ver proyecto en:
-https://sebas.certweb.infenlaces.com/sebajs/ventanas-modales/
+Ver [proyecto](https://sebas.certweb.infenlaces.com/sebajs/ventanas-modales/)
