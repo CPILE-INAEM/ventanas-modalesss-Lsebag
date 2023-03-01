@@ -11,8 +11,10 @@ console.log(overlay);
 
 const openModal = function (e) {
   console.log(e, e.target);
-  modal.classList.remove("hidden");
-  overlay.classList.remove("hidden");
+  if (e.target.classList.contains("show-modal")) {
+    modal.classList.remove("hidden");
+    overlay.classList.remove("hidden");
+  }
 };
 
 btnShowModal.forEach((btn) => btn.addEventListener("click", openModal));
