@@ -4,7 +4,7 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "scp -P 22123 /home/alumno/Escritorio/desarrollo-aplicaciones-web/Javascript/ventanas-modalesss-Lsebag/* sebas@sebas.certweb.infenlaces.com:/home/sebas/sebaphp/sitiophp/sebajs/ventanas-modales"
   },
   "author": "Sebastian",
   "license": "ISC",
