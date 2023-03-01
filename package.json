@@ -1,0 +1,16 @@
+{
+  "name": "ventanas-modalesss-lsebag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastian",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.35.0",
+    "eslint-config-prettier": "^8.6.0",
+    "prettier": "^2.8.4"
+  }
+}
